@@ -1,4 +1,4 @@
-#NFT Making and Minting
+# NFT Making and Minting
 
 To enter the Truffle console run
 
